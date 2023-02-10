@@ -182,15 +182,17 @@
                   text-xs text-center
               "
               >
+             
               <span class="ml-2"
                   >You don't have an account?
                   <a
-                  href="#"
-                  class="text-xs ml-2 text-blue-500 font-semibold"
+                  href="/RegisterPage"
+                  class="text-s ml-2 text-blue-500 font-semibold"
                   >Register now</a
                   ></span
-              >
-              </a>
+                  >
+                  
+                </a>
           </div>
         </div>
     </body>
